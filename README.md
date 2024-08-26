@@ -4,20 +4,22 @@ This repository stores codes and presentation for a River App. It was designed f
 
 ## Homepage
 - [1st Design](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
-- [GitHub for 2nd Design](https://github.com/leeabd123/CodeADA-Website)
+- [GitHub for 2nd Design](https://github.com/leeabd123/CodeADA-Website)\
 The following image shows the a display of the Home Page.
 ![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
 
-### Map
+## Video Display for the Map of rivers
 
 https://user-images.githubusercontent.com/92959551/196064075-25451ab2-56fb-4c31-b68b-1af1baccecf7.mov
 
+## Presentation
+[Slides for our presentation](https://docs.google.com/presentation/d/1aF9_wT_GykD3yxY2fbx7eQttkG3hBSAR-hdAxy7WFwU/edit#slide=id.g1689bef1c6f_0_0)
+
+## Techniques:
 
 
-### [Presentation](https://docs.google.com/presentation/d/1aF9_wT_GykD3yxY2fbx7eQttkG3hBSAR-hdAxy7WFwU/edit#slide=id.g1689bef1c6f_0_0)
-
-## Introduction
+## Contribution
 
 **Leena**
 
