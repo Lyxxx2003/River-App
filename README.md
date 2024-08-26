@@ -1,8 +1,11 @@
 # River App Website
 
-### [Homepage](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
-**GitHub Link to otherwebsite portion** https://github.com/leeabd123/CodeADA-Website
+This repository stores codes and presentation for a River App. It was designed for a Sustainability Hackathon.
 
+## Homepage
+- [1st Design](https://634c81f7181d4558b49de6da--elaborate-florentine-d2cd8a.netlify.app/)
+- [GitHub for 2nd Design](https://github.com/leeabd123/CodeADA-Website)
+The following image shows the a display of the Home Page.
 ![The River APP](https://i.postimg.cc/15wB24Rs/websitehomepage.png)
 
 
